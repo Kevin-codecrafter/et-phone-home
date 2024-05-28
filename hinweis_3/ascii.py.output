@@ -1,0 +1,22 @@
+
+
+            ASCII-Table             
+====================================
+
+    0_  1_  2_  3_  4_  5_  6_  7_ 
+_0: NUL DLE      0   @   P   `   p 
+_1: SOH DC1  !   1   A   Q   a   q 
+_2: STX DC2  "   2   B   R   b   r 
+_3: ETX DC3  #   3   C   S   c   s 
+_4: EOT DC4  $   4   D   T   d   t 
+_5: ENQ NAK  %   5   E   U   e   u 
+_6: ACK SYN  &   6   F   V   f   v 
+_7: BEL ETB  '   7   G   W   g   w 
+_8: BS  CAN  (   8   H   X   h   x 
+_9: HT  EM   )   9   I   Y   i   y 
+_a: LF  SUB  *   :   J   Z   j   z 
+_b: VT  ESC  +   ;   K   [   k   { 
+_c: FF  FS   ,   <   L   \   l   | 
+_d: CR  GS   -   =   M   ]   m   } 
+_e: SO  RS   .   >   N   ^   n   ~ 
+_f: SI  US   /   ?   O   _   o  DEL
